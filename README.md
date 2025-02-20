@@ -1,1 +1,1 @@
-# Password-Generator-using-Python
+This is a simple password generator built using Python's random module. The program generates strong and secure passwords based on user-defined criteria such as length and character types (uppercase, lowercase, numbers, and special symbols).
